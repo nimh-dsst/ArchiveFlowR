@@ -1,0 +1,11 @@
+^\.pixi($|/)
+^pixi\.toml$
+^pixi\.lock$
+^\.github($|/)
+^docs($|/)
+^\.env$
+^\.dockerignore$
+^\.githooks($|/)
+^\.lintr$
+^AGENTS\.md$
+^scripts($|/)
